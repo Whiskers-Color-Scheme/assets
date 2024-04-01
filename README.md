@@ -1,2 +1,2 @@
 ## Logos
-<img src="logos/logo.webp" width="200">
+<img src="logos/logo-rounded.webp" width="200">
