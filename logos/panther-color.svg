@@ -7,11 +7,12 @@
    viewBox="0 0 270.93333 270.93333"
    version="1.1"
    id="svg1"
-   inkscape:export-filename="logo.svg"
+   inkscape:export-filename="cover-panther-color.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -23,7 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm">
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#0e0600ff">
     <inkscape:page
        x="0"
        y="0"
@@ -35,6 +37,34 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <linearGradient
+       id="linearGradient7"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffe072;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#ffb26c;stop-opacity:1;"
+         offset="0.16865022"
+         id="stop12" />
+      <stop
+         style="stop-color:#ff8c7c;stop-opacity:1;"
+         offset="0.37272966"
+         id="stop13" />
+      <stop
+         style="stop-color:#ffaaf5;stop-opacity:1;"
+         offset="0.58547819"
+         id="stop14" />
+      <stop
+         style="stop-color:#b1e380;stop-opacity:1;"
+         offset="0.76848644"
+         id="stop15" />
+      <stop
+         style="stop-color:#a5ceff;stop-opacity:1;"
+         offset="0.92078316"
+         id="stop9" />
+    </linearGradient>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect5"
@@ -65,6 +95,16 @@
        id="path-effect5-7-2-2"
        is_visible="true"
        lpeversion="1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7"
+       id="linearGradient8"
+       x1="117.5592"
+       y1="87.878883"
+       x2="117.5592"
+       y2="145.03772"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -75,7 +115,7 @@
        inkscape:label="Left Whiskers"
        transform="matrix(0.8942133,0,0,1.0075254,9.2689426,17.954599)">
       <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#ffe072;stroke-width:5.102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
          d="m 27.841027,103.45863 70.118144,-3.09344"
          id="path4"
          inkscape:path-effect="#path-effect5"
@@ -83,7 +123,7 @@
          transform="rotate(2.3649073,116.3715,-132.42486)"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#ffb26c;stroke-width:5.102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
          d="m 27.841027,103.45863 70.118144,-3.09344"
          id="path4-3"
          inkscape:path-effect="#path-effect5-7"
@@ -91,7 +131,7 @@
          transform="rotate(2.3649073,-313.62678,-102.79636)"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#ff8c7c;stroke-width:5.102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
          d="m 27.841027,103.45863 70.118144,-3.09344"
          id="path4-3-1"
          inkscape:path-effect="#path-effect5-7-2"
@@ -104,7 +144,7 @@
        inkscape:label="Right Whiskers"
        transform="matrix(-0.8942133,0,0,1.0075254,263.45985,17.954599)">
       <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#ffaaf5;stroke-width:5.102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
          d="m 27.841027,103.45863 70.118144,-3.09344"
          id="path4-5"
          inkscape:path-effect="#path-effect5-92"
@@ -112,7 +152,7 @@
          transform="rotate(2.3649073,116.3715,-132.42486)"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#b1e380;stroke-width:5.102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
          d="m 27.841027,103.45863 70.118144,-3.09344"
          id="path4-3-9"
          inkscape:path-effect="#path-effect5-7-0"
@@ -120,7 +160,7 @@
          transform="rotate(2.3649073,-313.62678,-102.79636)"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#a5ceff;stroke-width:5.102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
          d="m 27.841027,103.45863 70.118144,-3.09344"
          id="path4-3-1-2"
          inkscape:path-effect="#path-effect5-7-2-2"
@@ -130,7 +170,7 @@
     </g>
     <path
        sodipodi:type="star"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.37678;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient8);stroke-width:4.37678;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
        id="path6"
        inkscape:flatsided="false"
        sodipodi:sides="3"
